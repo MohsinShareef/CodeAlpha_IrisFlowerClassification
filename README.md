@@ -16,4 +16,6 @@
 - After that we create app.py file for build a streamlit application with help of python and streammlit framework from which we can make predictions.
 Application show 4 Input Features Sepal Length (cm), Sepal Width (cm), Petal Length (cm), Petal Width (cm), show a sidebar select a length and width than Clink on Species Predictor button show the result base on your selection.
 I create requirements.txt file for all necessary libraries with versions. I upload this application on streamlit platform you can easily accessible for everyone.
+
+-  Video Link of this project: https://lnkd.in/p/dYMwN5jM
 ## Thank for you're attention.
